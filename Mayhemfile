@@ -1,5 +1,5 @@
-project: rnshah9/playground
-target: playground
+project: rnshah9/mayhem-dejsonlz4
+target: dejsonlz4
 
 cmds:
   - cmd: /dejsonlz4/dejsonlz4 @@
