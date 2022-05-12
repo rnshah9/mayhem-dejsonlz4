@@ -4,3 +4,6 @@ target: playground
 cmds:
   - cmd: /dejsonlz4/dejsonlz4 @@
     filepath: /test.jsonlz4
+  - cmd: /dejsonlz4/dejsonlz4 out
+    filepath: /test.jsonlz4
+  - cmd: /dejsonlz4/dejsonlz4 @@
